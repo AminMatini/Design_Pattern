@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="FactoryPatternSample\ConcreteCreator\" />
+    <Folder Include="FactoryPatternSample\ConcreteProduct\" />
+    <Folder Include="FactoryPatternSample\Enums\" />
+    <Folder Include="FactoryPatternSample\InterfaceProduct\" />
+  </ItemGroup>
+
 </Project>
